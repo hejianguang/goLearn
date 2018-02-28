@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	fmt.Fprintf("%s", "123")
 }
-
